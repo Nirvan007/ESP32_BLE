@@ -10,7 +10,7 @@ Broadcasting Bluetooth services using ESP32 Devkit V1 <a name="TOP"></a>
 * [Complete Hardware Assembly](#Complete-Hardware-Assembly)
 * [Firmware](#Firmware)
 * [Project Overview Video](#Project-Overview-Video)
-* [Issues Faced & Resolution](#Issues-Faced-&-Resolution)
+* [Issues Faced and Resolution](#Issues-Faced-and-Resolution)
 * [Outputs](#Outputs)
 * [nRF Connect Application interface](#nRF-Connect-Application-interface)
 * [References](#References)
@@ -63,7 +63,7 @@ Fritzing is an open-source hardware initiative that makes electronics accessible
 ### Link
 - https://drive.google.com/file/d/1l5og78Y-2ZODacyJ4YPPP19z49ZOXAzD/view?usp=sharing
 
-## Issues Faced & Resolution
+## Issues Faced and Resolution
 ### ESP32 Not Advertising after disconnection
 ### Approach 1: Used the callback function to restart advertising within the loop itself.
 * Result = Successfully connected and reconnected multiple times with no issues (Check at the end of the [Project Overview Video](#Project-Overview-Video)).
