@@ -57,7 +57,7 @@ Fritzing is an open-source hardware initiative that makes electronics accessible
 
 ## Firmware
 ### Link (Check the link below or directly download the .ino file or Word document that has the raw code)
-- 
+- https://github.com/Nirvan007/ESP32_BLE/blob/main/Firmware/Nineti_Assignment_ESP32_BLE/Nineti_Assignment_ESP32_BLE.ino
 
 ## Project Overview Video
 ### Link
