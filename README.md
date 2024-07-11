@@ -1,4 +1,4 @@
-Broadcasting Bluetooth services using ESP32 Devkit V1 <a name="TOP"></a>
+Low Energy Bluetooth Service Broadcasting using ESP32 Devkit V1 <a name="TOP"></a>
 ===================
 
 ## Table of Contents
